@@ -7,7 +7,7 @@ categories:
 - Design
 
 ---
-<img src="assets/images/2014/02/2-4dd14c2da8.jpg" alt="" width="500" height="" border="" align="" />
+<img src="https://media.publit.io/file/2-4dd14c2da8.jpg" alt="" width="500" height="" border="" align="" />
 
 Very interesting diagrams to see at the [Web Science Industry Forum Poster Session][scribd] via [Mark Bernstein][markbernstein]
 

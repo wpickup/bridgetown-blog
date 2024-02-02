@@ -13,4 +13,4 @@ Bernstein illustrates his argument by describing the photo below, which brought 
 
 > There&#x2019;s a picture in the lobby of the Hotel Metropole in Brussels of the attendees at the first Solvay conference in 1911. Madame Curie is sitting next to Henri Poincar&#xe9;; they&#x2019;re both examining a paper and it&#x2019;s more interesting than the group photo. Behind them, a shockingly young Al Einstein is paying more attention to the photographer. Nernst is there, and Rutherford, Lorentz, Planck, de Broglie, Brillouin, Langevin...
 
-![](/assets/images/2014/02/800px-1911-Solvay-conference.jpg)
+![](https://media.publit.io/file/800px-1911-Solvay-conference.jpg)

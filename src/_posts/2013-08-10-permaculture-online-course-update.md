@@ -12,7 +12,7 @@ In a [previous post][williampickup] I wrote about the positive experience we wer
 
 The course continues to stimulate us and our enthusiasm for the material remains strong. Even on evenings when we were tired from a busy day the prospect of some "Geoff time" was appealing and we had little trouble keeping up the momentum and staying more or less in line with the proposed course outline.
 
-![](/assets/images/2014/02/Screen.png)
+![](https://media.publit.io/file/GeoffLawton-whiteboard.png)
 
 The course is well structured and its clear that Geoff has given it many times. His great depth of experience serves to ground the potentially abstract materials and to "keep it real"[^1]. For me the only time this focus was lost was in the final section "Creating an Alternative Society". Geoff still had plenty of relevant experience to relate however the videos for this section felt looser and had a more rambling character than the bulk of the course. For students at the end of an intense two weeks this is probably a relief as Geoff kicks back and the amount of material being relayed eases off.
 

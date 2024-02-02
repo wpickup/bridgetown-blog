@@ -5,9 +5,11 @@ date: 2014-06-26 00:00:00 +0000
 layout: post
 categories: 
 - Craft
-tags:
-- featured3
+
 ---
+
+<img alt="logo" src="https://media.publit.io/file/arkansas-made-logo-400.png">
+
 Following a [link][1] from Fine Woodworking I came across an [inspiring collection of videos][2] featuring a group of traditional craftspeople who live in the US state of Arkansas.
 <!--read_more-->
 The state has sponsored the production of a movie series featuring each craftsman talking about their work and practising in their studios. 

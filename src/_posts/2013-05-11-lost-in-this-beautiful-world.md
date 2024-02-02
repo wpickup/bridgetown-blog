@@ -7,7 +7,7 @@ categories:
 - Music
 
 ---
-![][williampickup]
+![][albumcover]
 
 I have been enjoying the album [Lost in this beautiful world][apple] by [Jon Lacey][jonlacey]. It's a melodic piano and guitar driven folk album with an authentic feel, partly due to the raw quality of Jon's voice. The songs are introspective and engaging.
 
@@ -23,5 +23,5 @@ Get the Album from [iTunes][apple]
 [jonlacey]: http://www.jonlacey.co.uk/intro.html
 [marinetheatre]: http://www.marinetheatre.com/theatre-story/
 [tommcconville]: http://www.tommcconville.co.uk/
-[williampickup]: /assets/images/2014/02/LostInThisBeautifulWorld.jpg
-[2]: /assets/images/2014/02/1110-Tom-McConville-1.jpg
+[albumcover]: https://media.publit.io/file/LostInThisBeautifulWorld.jpg
+[2]: https://media.publit.io/file/1110-Tom-McConville-1.jpg

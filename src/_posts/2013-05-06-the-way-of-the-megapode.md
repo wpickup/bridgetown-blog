@@ -16,4 +16,4 @@ Our local Megapodes are known as Bush (or Brush) Turkey's and can destroy a prod
 [amazon]: http://www.amazon.com/gp/product/0345371984/tag=slowlane-20
 [rousette]: http://www.rousette.org.uk
 [rousette 2]: http://www.rousette.org.uk/blog/archives/the-way-of-the-megapode
-[williampickup]: /assets/images/2014/02/440px-Alectura_lathami.jpg
+[williampickup]: https://media.publit.io/file/440px-Alectura-lathami.jpg

@@ -14,7 +14,7 @@ I like [this](https://creativemarket.com/blog/2013/04/29/models-for-decision-mak
 
 The post also features a nice mind map example from [Learning Fundamentals](http://www.learningfundamentals.com.au) focused on personal actions for reducing climate change impacts.
 
-[<img src="assets/images/2013/05/GlobalWarmingMindMap.png"  />][learningfundamentals]
+[<img src="https://media.publit.io/file/GlobalWarmingMindMap-300x213.png"  />][learningfundamentals]
 
 I find the iPad an ideal tool for mind mapping especially with the power of [iThoughtsHD](http://www.ithoughts.co.uk/iThoughtsHD/Welcome.html).
 

@@ -10,7 +10,7 @@ categories:
 ---
 Great [infographic post][1] at [infowetrust][2] via the [Huffington Post][3] and [macademic][4] that shows the daily ritual of interesting historical figures. Smoking, coffee and beer appear frequently.
 <!--read more-->
-[![Creative Routines Infographic](/assets/images/2014/04/daily-rituals-1000-1500.png)](http://www.infowetrust.com/creative-routines/)
+[![Creative Routines Infographic](https://media.publit.io/file/daily-rituals-1000-1500.png)](http://www.infowetrust.com/creative-routines/)
 
 
 [1]:	http://www.infowetrust.com/creative-routines/
