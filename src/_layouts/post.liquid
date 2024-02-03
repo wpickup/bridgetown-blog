@@ -2,6 +2,37 @@
 layout: default
 ---
 
-<h1>{{ data.title }}</h1>
+ <article>
+   <h1 style="margin-bottom: .1rem">
+     {{ resource.data.title }}
+   </h1>
+   <h3 class="lowlighted" style="margin: .25rem 0 .15rem 0">
+     {% assign subtitle = resource.data.subtitle %}
+     {% if subtitle %}
+       {{ subtitle | capitalize }}
+     {% endif %}
+   </h3>
+   <small class="lowlighted">
+     {{ resource.date | date: "%B %e, %Y" }} · {{ resource.data.author }} ·
+   </small>
 
-{{ content }}
+   <input type="checkbox" id="toc" />
+   <label for="toc">&nbsp;Table of Contents</label>
+
+   {{ content }}
+
+ </article>
+
+ <post-footer>
+   {% if resource.previous_resource %}
+     <a href="{{ resource.previous_resource.relative_url }}#bottom">
+       👉 <strong>Next:</strong> {{ resource.previous_resource.data.title }}
+     </a>
+   {% endif %}
+   {% if resource.next_resource %}
+     <a href="{{ resource.next_resource.relative_url }}#bottom">
+       👈 <strong>Previous:</strong> {{ resource.next_resource.data.title }}
+     </a>
+   {% endif %}
+   <a href="#top">🚀 Back to top</a>
+ </post-footer>
