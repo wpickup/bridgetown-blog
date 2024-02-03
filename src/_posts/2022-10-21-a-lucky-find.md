@@ -2,7 +2,7 @@
 title: A Lucky Find
 slug: a-lucky-find
 date: 2021-10-22 00:00:00 +0000
-layout: single
+layout: post
 categories:
   - Books
   - Food
