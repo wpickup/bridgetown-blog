@@ -14,6 +14,8 @@ The following are worth considering if you are in Kyoto and interested in Cerami
 
 #### [Kawai Kanjiros' House][kanjiro]
 
+<img src="https://media.publit.io/file/Kawai-house-front-z.jpeg" alt="house" />
+
 We have visited this beautiful old merchants house with its huge climbing kiln several times and always found it rewarding. The enormous climbing kiln and beautifully preserved house are worth spending some time exploring.
 
 [Kawai Kanjiro][wikipedia] was a key player in Soetsu Yanangi's ["Mingei"][wikipedia 2] movement[^1] in partnership Shoji Hamada, Kenichi Tomimoto and [Bernard Leach][wikiclay].
@@ -24,13 +26,18 @@ We have visited this beautiful old merchants house with its huge climbing kiln s
 <!--read_more-->
 ***
 
-#### Kyoto Ceramics Centre
+#### [Kyoto Ceramics Centre][gojozaka-url]
 
 Kyoto Ceramics Center is a two-story shop that displays the ceramics made by Kyoto potters. The work is all locally made and an excellent example of the regional talent.
 
+<img src="https://media.publit.io/file/gojozaka-img-hall.jpg" alt="display room" />
+
 ##### Getting there
 
-The [Kyoto Ceramic Center][frommers] is located on Gojo-zaka station enroute to Kiyomizu temple. Bus numbers 80, 100, 202, 206 and 207 will take you to Gojo-zaka. Very close to Kawai Kanjiro's House.   
+The [Kyoto Ceramic Center][gojozaka-url] is located on Gojo-zaka station enroute to Kiyomizu temple. Bus numbers 80, 100, 202, 206 and 207 will take you to Gojo-zaka. Very close to Kawai Kanjiro's House.   
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d817.1174010010461!2d135.776681!3d34.994948!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x600108cee4752e4f%3A0x6d3075c7ae2aa1e9!2sKyoto%20Ceramic%20Center%20(Kyoto%20Ceramic%20Art%20Association%20Official%20Shop%20and%20Gallery)!5e0!3m2!1sen!2sus!4v1706938323020!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 
 ***
 
@@ -41,7 +48,7 @@ The [Kyoto Ceramic Center][frommers] is located on Gojo-zaka station enroute to 
 
 When we visited a selection of tea bowls from the collection was on display. Including my personal favourite whose name is _Fierce Tiger_ (below)
 
-<img src="/posts/Ceramics-Destinations-in Kyoto/_bowl-fierce-tiger.jpg" alt="Tea Bowl - Fierce Tiger" width="500" height="" border="" />
+<img src="https://media.publit.io/file/bowl-fierce-tiger-Z.jpg" alt="Tea Bowl - Fierce Tiger" width="500" height="" border="" />
 
 Tea Bowl - Fierce Tiger
 
@@ -75,7 +82,7 @@ The redoubtable [Robert Yellin][robertyellin][^2] has also produced a valuable [
 
 [flickr 2]: http://www.flickr.com/photos/williampickup/sets/72157633961704473/
 
-[frommers]: http://www.frommers.com/destinations/destinationmap.cfm?destid=80&amp;s_id=27484
+[gojozaka-url]: http://kyototoujikikaikan.kyoto/en/index.html
 
 [jnto]: http://www.jnto.go.jp/eng/location/rtg/pdf/pg-806.pdf
 
@@ -93,4 +100,7 @@ The redoubtable [Robert Yellin][robertyellin][^2] has also produced a valuable [
 
 [^1]:  see [Soetsu Yanagi The Unknown Craftsman](http://www.amazon.com/gp/product/0870119486/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0870119486&amp;linkCode=as2&amp;tag=slowlane-20)
 
-[^2]:  [Robert's Facebook feed][yellinfacebook] provides a continuous source of interesting japanese ceramics news and images 
+[^2]:  [Robert's Facebook feed][yellinfacebook] provides a continuous source of interesting japanese ceramics news and images
+
+
+ 

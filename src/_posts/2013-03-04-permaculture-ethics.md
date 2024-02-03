@@ -28,6 +28,6 @@ The [Permaculture Research Institute][permaculturenews] has a dynamic web site w
 [wikipedia]: http://en.wikipedia.org/wiki/Permaculture
 [wikipedia 2]: http://en.wikipedia.org/wiki/Ecotopia
 [wikipedia 3]: http://en.wikipedia.org/wiki/Bill_Mollison
-[williampickup]: /assets/images/2014/02/2031263.jpg
-[williampickup 2]: /assets/images/2014/02/41ONpFJbnVL.jpg
-[williampickup 3]: /assets/images/2014/02/514vdVSs2UL.jpg
+[williampickup]: https://media.publit.io/file/Permaculture2.jpg
+[williampickup 2]: https://media.publit.io/file/OneStraw.jpg
+[williampickup 3]: https://media.publit.io/file/ecotopia.jpg

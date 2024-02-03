@@ -10,4 +10,4 @@ categories:
 Insightful guide to living with an introvert, rings true and definitely worth a look.  
 ![][williampickup]
 
-[williampickup]: /assets/images/2014/02/how_to_live_with_introverts_by_romanjones-d4tfoyo.jpg
+[williampickup]: https://media.publit.io/file/how-to-live-with-introverts-by-romanjones-d4tfoyo.jpg

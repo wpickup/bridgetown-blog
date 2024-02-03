@@ -9,7 +9,7 @@ categories:
 
 ---
 Just finished reading the [Anarchists Tool Chest by Christopher Schwartz][lostartpress].
-[<img src="assets/images/2014/02/ATC.jpg" alt="" width="" height="300" border="" align="left" />][lostartpress 2]
+[<img src="https://media.publit.io/file/ATC.jpg" alt="" width="" height="300" border="" align="left" />][lostartpress 2]
 
 Its inspired me to build my own chest and stock with it quality tools made where possible by small firms and individuals who are keeping the tools needed for traditional woodworking alive. Chris has wicked sense of humour which, once I tuned into it, added a nice touch of levity to the material.
 

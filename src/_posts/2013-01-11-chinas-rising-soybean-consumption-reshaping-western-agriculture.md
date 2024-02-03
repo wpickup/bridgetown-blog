@@ -18,4 +18,4 @@ Where was once pristine Amazon rainforest, soybean harvesters march across the l
 [earth-policy]: http://www.earth-policy.org/
 [permaculturenews]: http://permaculturenews.org/2013/01/09/chinas-rising-soybean-consumption-reshaping-western-agriculture
 [permaculturenews 2]: http://www.permaculturenews.org/
-[williampickup]: /assets/images/2014/02/amazon-soy-farming-harvesters.jpg "Soy bean harvesters"
+[williampickup]: https://media.publit.io/file/amazon-soy-farming-harvesters.jpg "Soy bean harvesters"

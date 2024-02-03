@@ -9,7 +9,7 @@ categories:
 ---
 [This][visual-literacy] is interesting, an interactive compilation of data visualisation techniques.
 
-[<img src="assets/images/2014/02/A-Periodic-Table-of-Visualization-Methods.png" alt="Visualisation Methods" width="700" />][visual-literacy]
+[<img src="https://media.publit.io/file/PeriodicVisualisations.jpg" alt="Visualisation Methods" width="700" />][visual-literacy]
 
 Quite a few here I didn't recognise. Click on the image to load the full diagram then hover over each cell for an example.
 

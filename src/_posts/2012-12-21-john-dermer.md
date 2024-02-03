@@ -16,4 +16,4 @@ There were still many beautiful pieces left and we purchased an exquisite salt g
 ![][williampickup]
 
 [johndermer]: http://www.johndermer.com.au/
-[williampickup]: /assets/images/2014/02/8292719561-41685414c0.jpg
+[williampickup]: https://media.publit.io/file/johndermerbowl.jpg

@@ -19,5 +19,5 @@ I am looking forward to checking out more of her work, especially the illustrate
 [blogs]: http://kalman.blogs.nytimes.com/2009/07/30/can-do/
 [mairakalman]: http://www.mairakalman.com/
 [mairakalman 2]: http://www.mairakalman.com/books/adult/food-rules/#1
-[williampickup]: /assets/images/2014/02/frontpage-foodrules.jpg
+[williampickup]: https://media.publit.io/file/frontpage-foodrules.jpg
 [wordpress]: http://welcometosherwood.wordpress.com/2013/01/08/this-ode-to-invention/
