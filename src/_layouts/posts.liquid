@@ -33,7 +33,7 @@ layout: default
                   {% unless post.image_path %}
                     <article class="bg-white rounded-lg shadow p-6">
                       <h2 class="text-xl font-bold text-gray-800"> {{ post.title }} </h2>
-                      <p class="text-gray-600">Published on <time datetime="2022-10-01">{{ post.date_short }}</time></p>
+                      <p class="text-gray-600">Published on <time datetime="2022-10-01">{{ post.date }}</time></p>
                       {% if post.image_path %}
                         <img src="{{ post.image_path }}" alt="Blog Post Image 1" class="my-4 rounded-lg">
                       {% endif %}
