@@ -2,22 +2,45 @@
 layout: default
 ---
 
-<div class="mx-4 lg:m-auto lg:w-2/3">
+<div class=""bg-gray-100">
 
-    <h1 class="text-5xl lg:text-6xl my-12 text-black font-extrabold tracking-tighter leading-tight lg:-mx-12">{{ page.title }}</h1>
+    <header class="bg-white shadow">
+      <div class="container mx-auto px-4 py-6">
+        <h1 class="text-2xl font-bold text-gray-800">{{ page.title }}</h1>
+      </div>
+   </header>
+
     <p class="text-gray-900 text-lg pb-12 font-extrabold leading-4">{{page.subtitle}}</p>
 
     {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
 
-    <div class="lg:grid lg:grid-cols-3 lg:gap-8">
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
         {% for year in postsByYear %}
             <div>
                 <h2 class="text-3xl font-extrabold text-yellow-400">{{ year.name }}</h2>
             </div>
+
+            <article class="bg-white rounded-lg shadow p-6">
+              <h2 class="text-xl font-bold text-gray-800">Blog Post Title 1</h2>
+              <p class="text-gray-600">Published on <time datetime="2022-10-01">October 1, 2022</time></p>
+              <img src="path/to/image1.jpg" alt="Blog Post Image 1" class="my-4 rounded-lg">
+              <p class="text-gray-800">Lorem ipsum dolor sit amet, consectetur</p>
+            </article>
+
+
             <div class="mt-12 lg:mt-0 lg:col-span-2">
                 {% for post in year.items %}
+                  {% unless post.image_path %}
+                    <article class="bg-white rounded-lg shadow p-6">
+                      <h2 class="text-xl font-bold text-gray-800"> {{ post.title }} </h2>
+                      <p class="text-gray-600">Published on <time datetime="2022-10-01">{{ post.date_short }}</time></p>
+                      {% if post.image_path %}
+                        <img src="{{ post.image_path }}" alt="Blog Post Image 1" class="my-4 rounded-lg">
+                      {% endif %}
+                      <p class="text-gray-800">Lorem ipsum dolor sit amet, consectetur</p>
+                    </article>
 
-                    {% unless post.image_path %}
+<!--
                             <div class="mt-6">
                                 <div class="my-8 tracking-tight font-semibold">
                                     <a href="{{ post.url }}" class="flex items-center space-x-4">
@@ -35,8 +58,8 @@ layout: default
                                     </a>
                                 </div>
                             </div>
-                        {% endunless %}
-
+ -->
+                  {% endunless %}
                 {% endfor %}
             </div>
         {% endfor %}
