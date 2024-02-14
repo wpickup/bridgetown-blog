@@ -25,4 +25,4 @@ All of his book are worth reading, as are those of some of his students includin
 [amazon 2]: http://www.amazon.com/gp/product/140272022X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;tag=slowlane-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=140272022X
 [amazon 3]: http://www.amazon.com/A-Cabinetmakers-Notebook-Woodworkers-Library/dp/0941936597/ref=sr_1_1?sr=8-1&amp;ie=UTF8&amp;keywords=a%2Bcabinetmakers%2Bnotebook&amp;tag=slowlane-20&amp;qid=1414303808
 [wikipedia]: http://en.wikipedia.org/wiki/James_Krenov
-[williampickup]: /assets/images/2014/02/41fS-kX3naL.jpg
+[williampickup]: https://media.publit.io/file/41fS-kX3naL.jpg

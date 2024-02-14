@@ -12,5 +12,5 @@ Just returned from a concert that was the major public event of the 5th&#xa0;[Wo
 All the performances were excellent, Riley Lee was superb however it was the Ajikan (meditation on the letter A) played by Living National Treasure Reibo Aoki that was the most absorbing. He had a powerful presence that brought a deep stillness to the auditorium.  
 ![][williampickup]
 
-[williampickup]: /assets/images/2014/01/8081941458.jpg
+[williampickup]: https://media.publit.io/file/shakahauchi.jpg
 [worldshakuhachifestival08]: http://www.worldshakuhachifestival08.com/

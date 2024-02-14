@@ -25,5 +25,5 @@ Perhaps all law enforcement officers should be trained in the fundamentals of no
 [theatlantic]: http://www.theatlantic.com/james-fallows/
 [theatlantic 2]: http://www.theatlantic.com/national/archive/2011/11/pepper-spray-brutality-at-uc-davis/248764/
 [wikipedia]: http://en.wikipedia.org/wiki/Civil_Disobedience_(Thoreau
-[williampickup]: /assets/images/2014/02/51blLOwsoGL.jpg "Ghandi Biography"
+[williampickup]: https://media.publit.io/file/ghandi-book.jpg "Ghandi Biography"
 [youtube]: http://www.youtube.com/watch?feature=player_embedded&amp;v=8775ZmNGFY8#%21

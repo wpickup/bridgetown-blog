@@ -27,4 +27,4 @@ In nearby Trentham is the delicious [Red Beard bakery][redbeardbakery] which we 
 [theredstar]: http://www.theredstar.com.au/ "Red Star Cafe"
 [visitvictoria]: http://www.visitvictoria.com/displayobject.cfm/objectid.000B0EEA-F76B-1A64-88CD80C476A90318/ "Hepburn Springs"
 [visitvictoria 2]: http://www.visitvictoria.com/Regions/Daylesford-and-the-Macedon-Ranges/Things-to-do/Food-and-wine/Local-produce.aspx "Cliffy's"
-[williampickup]: /assets/images/2014/01/8081960563.jpg
+[williampickup]: https://media.publit.io/file/8081960563.jpg

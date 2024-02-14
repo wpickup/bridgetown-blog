@@ -14,7 +14,7 @@ In each issue of the magazine we will nominate one Sunday when we invite our mem
   
 We will take part here at Slowlane, I will have another go at the [dutch oven technique][motherearthnews] that seems to have worked for many people whose previous bread making efforts produced worthy but not particularly appetising loaves. My two efforts have been ok, plenty of room for improvement though. Its not the fact that this is a no knead recipe that attracts me, rather that it promises to produce a loaf that is crusty yet chewy on the inside.  
 
-<img src=" /assets/images/2014/01/8081923446.jpg" alt="" width="300" height="" border="" align="" />
+<img src="https://media.publit.io/file/bread-Z.jpg" alt="" width="300" height="" border="" align="" />
 
 
 [motherearthnews]: http://www.motherearthnews.com/Real-Food/2007-12-01/Easy-No-Knead-Dutch-Oven-Crusty-Bread.aspx

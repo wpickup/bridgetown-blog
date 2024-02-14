@@ -35,4 +35,4 @@ Check out the article have a look around on the web and you will be looking at g
 
 [amazon]: http://www.amazon.com/gp/product/0143114964/ref=as%5C_li%5C_ss%5C_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0143114964&amp;linkCode=as2&amp;tag=slowlane-20
 [choice]: http://www.choice.com.au/viewArticle.aspx?id=106380&amp;catId=100228&amp;tid=100008&amp;p=1&amp;title=Plasticisers
-[williampickup]: /assets/images/2014/02/41FuN5d4StL.jpg
+[williampickup]: https://media.publit.io/file/pollan-book.jpg

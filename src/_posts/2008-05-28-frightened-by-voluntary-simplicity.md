@@ -16,4 +16,4 @@ As a Subaru owner and former city escapee currently back in corporate life, the 
 [amazon]: http://www.amazon.com/gp/product/0805209700/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0375725458&amp;linkCode=as2&amp;tag=slowlane-20
 [kk]: http://www.kk.org/cooltools/archives/002838.php "Cool Tools"
 [nytimes]: http://www.nytimes.com/2008/05/17/us/17texas.html?_r=1&amp;oref=slogin "NY Times Article"
-[williampickup]: /images/2014/01/51YFFupMY4L.jpg
+[williampickup]: https://media.publit.io/file/subaru-S.jpg
