@@ -1,0 +1,46 @@
+---
+layout: page
+---
+
+{{ content }}
+
+<h3>Hello, my name is William Pickup</h3>
+<p>
+  I live on <a href="">Sydneys' Northern Beaches</a>, where I enjoy and
+  <a href="">running</a>, <a href="">swimming</a>, and
+  <a href="">slowly making things in my workshop</a>.
+</p>
+
+<h3>What am I doing now?</h3>
+<p>See <a href="now">my now page</a></p>
+
+<hr />
+
+<h2 class="archive__subtitle">Recent Posts</h2>
+
+
+{% for post in paginator.resources %}
+  <article>
+    <a href="{{ post.relative_url }}"><h3>{{ post.data.title }}</h3></a>
+
+    <p>{{ post.data.description }}</p>
+  </article>
+{% endfor %}
+
+</br>
+
+
+{% if paginator.total_pages > 1 %}
+  <ul class="pagination">
+    {% if paginator.previous_page %}
+    <li>
+      <a href="{{ paginator.previous_page_path }}">Previous Page</a>
+    </li>
+    {% endif %}
+    {% if paginator.next_page %}
+    <li>
+      <a href="{{ paginator.next_page_path }}">Next Page</a>
+    </li>
+    {% endif %}
+  </ul>
+{% endif %}

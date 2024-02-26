@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: All Posts
-subtitle: Posts I've written
+subtitle:
 ---
 
 <h1>Posts</h1>
